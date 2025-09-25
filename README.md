@@ -17,7 +17,7 @@ Crypto Shelfy Free gives you a sleek base template built with Next.js & Tailwind
 
 ## 📸 Preview
 
-![Crypto Shelfy Demo Screenshot](./screenshots/demo-homepage.png)
+![Crypto Shelfy Demo Screenshot](./Screenshots/ctsHomePage.png)
 
 *(Screenshots in `/screenshots/` folder — check them out for how clean and polished this looks on desktop & mobile.)*
 
