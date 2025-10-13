@@ -1,0 +1,65 @@
+name: aspirehub
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  appinio_video_player: ^1.2.2
+  flutter_svg: ^2.0.17
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  anim_search_bar: ^2.0.3
+  percent_indicator: ^4.2.4
+  google_nav_bar: ^5.0.7
+  flutter_screenutil: ^5.8.4
+  image_picker: ^1.1.2
+  image_cropper: ^9.1.0
+  shared_preferences: ^2.0.13
+
+  flutter_lints: ^5.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/
+    - assets/video/
+
+  fonts:
+    - family: Quick
+      fonts:
+        - asset: assets/fonts/Quicksand/Quicksand-VariableFont_wght.ttf
+          weight: 900
+
+    - family: Mulish
+      fonts:
+        - asset: assets/fonts/Mulish-VariableFont_wght.ttf
+          weight: 900
+    - family: Musedo
+      fonts:
+        - asset: assets/fonts/MuseoModerno/static/MuseoModerno-Bold.ttf
+          weight: 900
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 900
